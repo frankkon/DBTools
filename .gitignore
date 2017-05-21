@@ -1,0 +1,18 @@
+#.gitignore
+
+#vc project
+*.ncb
+*.obj
+*.exe
+*.ilk
+*.log
+*.pdb
+*.idb
+*.dep
+*.pch
+*.manifest
+*.res
+*.htm
+*.user
+*.aps
+*.suo
