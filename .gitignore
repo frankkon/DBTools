@@ -16,3 +16,9 @@
 *.user
 *.aps
 *.suo
+*.opt
+*.smp
+*.plg
+*.smproj
+*.sdf
+
